@@ -1,0 +1,11 @@
+id = "superhtml"
+name = "Superhtml"
+description = "Superhtml support."
+version = "0.1.0"
+schema_version = 1
+authors = ["WeetHet <stas.ale66@gmail.com>"]
+repository = "https://github.com/WeetHet/superhtml-zed"
+
+[language_servers.superhtml]
+name = "superhtml"
+languages = ["HTML"]

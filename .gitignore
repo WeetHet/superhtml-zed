@@ -1,0 +1,16 @@
+*
+
+# git files
+!.gitignore
+
+# rust files
+!Cargo.toml
+!Cargo.lock
+!extension.toml
+
+!src
+!src/*.rs
+
+# other files
+!LICENSE
+!README.md
